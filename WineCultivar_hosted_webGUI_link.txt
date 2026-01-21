@@ -1,0 +1,14 @@
+Wine Cultivar Origin Prediction System
+
+
+Name: Ibrahim Stephanie Filimiyan
+
+Matric Number: 22CG031863
+
+Machine Learning Algorithm Used: Logistic Regression (Multiclass)
+
+Model persistence method used: Pickle
+
+Live URL of the hosted application: https://winecultivar-project-stephanieibrahim.onrender.com/
+
+GitHub repository link: https://github.com/Stephanie-ib/WineCultivar_Project_StephanieIbrahim_22CG031863
